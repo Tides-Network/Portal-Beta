@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>Portal</title>
+<item>
+<title>1.0.0</title>
+<pubDate>Thu, 06 Jun 2019 11:41:55 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/Tides-Network/Portal-Beta/master/Portal_1.0.0.dmg" sparkle:version="1" sparkle:shortVersionString="1.0.0" length="29582517" type="application/octet-stream" sparkle:edSignature="gQZaGTmeO7azaJ84x0216Qd7Vm5hHU2/tTb55XYOCOonSurllLbFRToZXYHD89c8ViZ3WXURoCSpcAzoz3z+Bw=="/>
+</item>
+</channel></rss>
