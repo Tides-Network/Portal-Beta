@@ -79,6 +79,13 @@
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
 <enclosure url="https://raw.githubusercontent.com/Tides-Network/Portal-Beta/master/Portal_1.0.13.dmg" sparkle:version="14" sparkle:shortVersionString="1.0.13" length="25220525" type="application/octet-stream" sparkle:edSignature="QlfD2xjvXgtJF3+wyQk5DEU6QHYp5riQ2Jv+W9nHupHzlbdm6pF5xBwLX2lGQMt+mvWmAeOXga2Zl6qnxSYkCA=="/>
 </item>
+<item>
+<title>1.0.15</title>
+<pubDate>Thu, 08 Aug 2019 10:45:26 -0700</pubDate>
+<sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+<enclosure url="https://raw.githubusercontent.com/Tides-Network/Portal-Beta/master/Portal_1.0.15.dmg" sparkle:version="16" sparkle:shortVersionString="1.0.15" length="25221293" type="application/octet-stream" sparkle:edSignature="KqfgylDOwvtboEjl5v7slmBfqOHrkEz9wOu8eyGqSJBECVXdapNRp8OGH2sGNziffeSzRj3QOxJOmKdDGz0aDg=="/>
+</item>
+
 
 
 
