@@ -8,5 +8,11 @@
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
             <enclosure url="https://raw.githubusercontent.com/Tides-Network/Portal-Beta/master/Portal_1.0.24.dmg" sparkle:version="25" sparkle:shortVersionString="1.0.24" length="28122629" type="application/octet-stream" sparkle:edSignature="tHfexxiigmAKXbHR6DGTBZ9LNvyiIS8ivJGHCq6rAHrI5poLJOTAZhRbvQiFiNiHgkBL3aQ7ZLcjxcmQ3vlAAA=="/>
         </item>
+        <item>
+            <title>1.0.25</title>
+            <pubDate>Wed, 25 Mar 2020 18:58:22 -0700</pubDate>
+            <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/Tides-Network/Portal-Beta/master/Portal_1.0.25.dmg" sparkle:version="26" sparkle:shortVersionString="1.0.25" length="30780090" type="application/octet-stream" sparkle:edSignature="6tISESCSmq9u0D0EeoS4Gc8nFIgytoNYZJodGdGyLroIkFMIPD09WupW3fufV/tbGiaBi2fHN1FySRHRcm3UDg=="/>
+        </item>
     </channel>
 </rss>
